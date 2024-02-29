@@ -124,9 +124,9 @@ break;
 case 5: 
 cout<<"\n\t--------------------------------------"<<endl;
 cout<<"\t| Thank you for using the software:  |\n\t| Made by:\t\t\t     |\n\t| 1).";
-cout<<"Harsh Bansal\t\t     |\n\t| 2).Pratham Jain\t\t     |\n\t| 3).";
-cout<<"Nehaansh\t\t\t     |\n\t| 4).Khushi Bansal\t\t     |\n\t| 5).";
-cout<<"Stuti Gambhir\t\t     |"<<endl;
+cout<<"XYZ1 \t\t     |\n\t| 2).x2\t\t     |\n\t| 3).";
+cout<<"x3\t\t\t     |\n\t| 4).x4\t\t     |\n\t| 5).";
+cout<<"x5\t\t     |"<<endl;
 cout<<"\t--------------------------------------"<<endl;
 exit(0);
 default: cout<<"\nInvalid Choice Entered";
